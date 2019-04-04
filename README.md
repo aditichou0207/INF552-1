@@ -3,8 +3,8 @@ INF552: Machine Learning for Data Informatics
 
 Coursework in University of Southern California. My solutions implement with Python3. 
 
-|Assignment|Data Set|Main Concept|Packages|
-|----------|--------|------------|--------|
+|Assignment|Data Set|      Main Concept    |Packages|
+|----------|--------|----------------------|--------|
 |1|[Vertebral Column](http://archive.ics.uci.edu/ml/datasets/vertebral+column#)|[KNN Algorithm](https://github.com/hsinyu0129/INF552/blob/master/homework1.ipynb)|
 |2|[Combined Cycle Power Plant](https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant)|[Regression](https://github.com/hsinyu0129/INF552/blob/master/homework2.ipynb)|
 |3|[AReM](https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%29)|[Classification](https://github.com/hsinyu0129/INF552/blob/master/homework3.ipynb)|
