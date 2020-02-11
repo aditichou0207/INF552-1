@@ -1,7 +1,7 @@
 INF552: Machine Learning for Data Informatics
 ========
 
-Coursework in University of Southern California. My solutions implement with Python3. 
+Coursework in University of Southern California. My solutions implemented with Python3. 
 
 |No.|Data Set|      Main Concept    |Packages|
 |---|--------|----------------------|--------|
